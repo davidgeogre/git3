@@ -1,0 +1,2 @@
+s file is created to get an understsnding about feature branches
+
