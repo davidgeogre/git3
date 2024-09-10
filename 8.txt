@@ -1,2 +1,2 @@
-eight file added
+eight file added to test merge conflict
 
